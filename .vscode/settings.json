@@ -12,4 +12,13 @@
         "source.organizeImports": true
     },
     "typescript.tsdk": "node_modules/typescript/lib",
+    "[bibtex]": {
+        "diffEditor.codeLens": true,
+        "emmet.triggerExpansionOnTab": true,
+        "editor.minimap.autohide": true,
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+        "diffEditor.diffAlgorithm":collapseUnchangedRegions0": true,
+        "editor.formatOnSaveMode": "modificationsIfAvaila        "editor.formatOnType": true
+    },
 }
